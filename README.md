@@ -7,8 +7,8 @@ Typescript
 Mongo
 
 # run the following on your cli
-npm install
-npm start
+`npm install` - install all of the necessary packages 
+`npm start` - traspiles the TS into dist directory and runs the js files in there. 
 
 **Note: The server will start on port 4008**
 
